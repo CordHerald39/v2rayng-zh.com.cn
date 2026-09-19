@@ -1,0 +1,89 @@
+{
+  "n": 8,
+  "domain": "v2rayng-zh.com.cn",
+  "name": "v2rayNG 配置手册",
+  "subject": "v2rayNG",
+  "theme": "indigo",
+  "color": "#443899",
+  "title": "v2rayNG 中文教程与订阅配置手册",
+  "hero": [
+    "配置有依据，",
+    "排错有顺序。"
+  ],
+  "description": "v2rayNG 中文配置手册，整理订阅更新、分应用代理、路由与 DNS 排错、日志取证和迁移备份，并提供原始 GitHub 下载入口。",
+  "kicker": "ANDROID / CONFIGURATION HANDBOOK",
+  "focus": "配置与问题定位",
+  "repo": "2dust/v2rayNG",
+  "intro": "从订阅更新到应用路由，把“哪里失败”拆开判断。适合已经安装客户端、希望看懂配置的人。",
+  "related": [
+    [
+      "openclashcn.com.cn",
+      "OpenClash 中文指南",
+      "区分手机 VPN 与路由器接管",
+      4178
+    ],
+    [
+      "flyclash.com.cn",
+      "FlyClash 中文指南",
+      "查阅另一 Android 项目的版本边界",
+      4175
+    ]
+  ],
+  "paths": [
+    "choose-client",
+    "import-subscription",
+    "app-routing",
+    "dns-check",
+    "logs-feedback",
+    "backup-migrate"
+  ],
+  "repository": "2dust/v2rayNG",
+  "previewPort": 4180,
+  "verified": "2026-09-20",
+  "categories": [
+    [
+      "downloads",
+      "v2rayNG 下载",
+      "核对系统、架构与原始发布来源。"
+    ],
+    [
+      "tutorials",
+      "使用教程",
+      "从准备到首次连接，按步骤完成。"
+    ],
+    [
+      "configuration",
+      "配置指南",
+      "理解订阅、路由与备份的边界。"
+    ],
+    [
+      "troubleshooting",
+      "问题排查",
+      "先记录现象，再逐层定位原因。"
+    ]
+  ],
+  "featuredGuides": [
+    "choose-client",
+    "import-subscription",
+    "app-routing",
+    "dns-check",
+    "logs-feedback",
+    "backup-migrate"
+  ],
+  "relatedSites": [
+    {
+      "domain": "openclashcn.com.cn",
+      "name": "OpenClash 中文指南",
+      "reason": "区分手机 VPN 与路由器接管",
+      "port": 4178,
+      "published": false
+    },
+    {
+      "domain": "flyclash.com.cn",
+      "name": "FlyClash 中文指南",
+      "reason": "查阅另一 Android 项目的版本边界",
+      "port": 4175,
+      "published": false
+    }
+  ]
+}

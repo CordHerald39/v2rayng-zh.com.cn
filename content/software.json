@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "android-arm64",
+    "title": "v2rayNG Android ARM64",
+    "platform": "Android ARM64",
+    "arch": "arm64-v8a",
+    "guidance": "适用于 ARM64 Android 设备；设备支持的 ABI 需先核对。",
+    "repository": "2dust/v2rayNG",
+    "release": "2.2.6",
+    "releaseUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.2.6",
+    "assets": [
+      {
+        "name": "v2rayNG_2.2.6_arm64-v8a.apk",
+        "url": "https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk",
+        "digest": "sha256:62b0675c0986a8613f1bb67f1a68c366c6357e04a68687a3bd907170594c437d"
+      },
+      {
+        "name": "v2rayNG_2.2.6_arm64-v8a.apk.sig",
+        "url": "https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk.sig",
+        "digest": "sha256:905467de83369c61204b4ce4217d532823d4a00f801a820a650efb9aac1ba6a0"
+      }
+    ]
+  },
+  {
+    "slug": "android-other",
+    "title": "v2rayNG 其他 Android 架构",
+    "platform": "其他 Android 架构",
+    "arch": "armeabi-v7a / x86 / x86_64",
+    "guidance": "旧 ARM 或模拟器架构请按系统支持的 ABI 选择。",
+    "repository": "2dust/v2rayNG",
+    "release": "2.2.6",
+    "releaseUrl": "https://github.com/2dust/v2rayNG/releases/tag/2.2.6",
+    "assets": [
+      {
+        "name": "v2rayNG_2.2.6_armeabi-v7a.apk",
+        "url": "https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_armeabi-v7a.apk",
+        "digest": "sha256:c5149bacb770a4c0e78c2caf6a6b5fda4a4c156f5940cf1d9d7e6214395f7ab2"
+      },
+      {
+        "name": "v2rayNG_2.2.6_x86.apk",
+        "url": "https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_x86.apk",
+        "digest": "sha256:6b597c88f5e2181dbc2a20f205dfd8580b5546a048a5dc113f3e151303a6573f"
+      },
+      {
+        "name": "v2rayNG_2.2.6_x86_64.apk",
+        "url": "https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_x86_64.apk",
+        "digest": "sha256:d8420ab763cb099f7d1ee45a8cad023e9cac59c7429a12281439a905975509ff"
+      }
+    ]
+  }
+]
